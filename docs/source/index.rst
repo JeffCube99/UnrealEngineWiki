@@ -14,4 +14,8 @@ Contents
     :maxdepth: 2
     :caption: Contents:
 
+    version_control/index.rst
+    multiplayer/index.rst
+    UI/index.rst
+    pawns_and_controllers.rst
 
