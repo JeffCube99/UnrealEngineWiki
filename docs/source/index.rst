@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Unreal Engine Wiki!
+==================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**UnrealEngineWiki** is a wiki containing information on various topics about the Unreal game engine.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+..  note::
 
-.. note::
-
-   This project is under active development.
+    This project is under active development.
 
 Contents
 --------
 
-.. toctree::
+..  toctree::
+    :maxdepth: 2
+    :caption: Contents:
 
-   usage
-   api
+
